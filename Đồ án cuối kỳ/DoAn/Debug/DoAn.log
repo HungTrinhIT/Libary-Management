@@ -1,0 +1,6 @@
+﻿  ChucNang6.cpp
+d:\libmanagement\đồ án cuối kỳ\doan\chucnang4,5.h(7): warning C4091: 'typedef ': ignored on left of 'PhieuMuonSach' when no variable is declared
+d:\libmanagement\đồ án cuối kỳ\doan\chucnang4,5.h(16): warning C4091: 'typedef ': ignored on left of 'PhieuTraSach' when no variable is declared
+d:\libmanagement\đồ án cuối kỳ\doan\chucnang6.cpp(170): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+d:\libmanagement\đồ án cuối kỳ\doan\chucnang6.cpp(368): warning C4129: '': unrecognized character escape sequence
+  DoAn.vcxproj -> D:\LibManagement\Đồ án cuối kỳ\Debug\LibManagement.exe
